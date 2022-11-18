@@ -11,7 +11,7 @@ import SwiftUI
 struct CustomFormApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartView()
         }
     }
 }

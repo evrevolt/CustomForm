@@ -11,6 +11,7 @@
 		54C8860A2928062F00505D3A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C886092928062F00505D3A /* ContentView.swift */; };
 		54C8860C2928063100505D3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54C8860B2928063100505D3A /* Assets.xcassets */; };
 		54C8860F2928063100505D3A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54C8860E2928063100505D3A /* Preview Assets.xcassets */; };
+		54C886162928110600505D3A /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C886152928110600505D3A /* StartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		54C886092928062F00505D3A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		54C8860B2928063100505D3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54C8860E2928063100505D3A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		54C886152928110600505D3A /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				54C886072928062F00505D3A /* CustomFormApp.swift */,
 				54C886092928062F00505D3A /* ContentView.swift */,
+				54C886152928110600505D3A /* StartView.swift */,
 				54C8860B2928063100505D3A /* Assets.xcassets */,
 				54C8860D2928063100505D3A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54C886162928110600505D3A /* StartView.swift in Sources */,
 				54C8860A2928062F00505D3A /* ContentView.swift in Sources */,
 				54C886082928062F00505D3A /* CustomFormApp.swift in Sources */,
 			);
